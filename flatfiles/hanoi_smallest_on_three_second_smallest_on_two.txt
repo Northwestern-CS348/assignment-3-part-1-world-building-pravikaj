@@ -29,3 +29,7 @@ fact: (on disk5 peg1)
 fact: (movable disk1 peg3 peg2)
 fact: (movable disk1 peg3 peg1)
 fact: (movable disk2 peg2 peg1)
+
+
+fact: (above disk4 disk5)
+fact: (above disk3 disk4)
